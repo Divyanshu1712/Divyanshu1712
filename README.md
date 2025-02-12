@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Divyanshu Srivastava</h1>
 <h3 align="center">Full Stack Developer | IoT Enthusiast | UX Researcher | Tech Innovator</h3>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2l0fGVufDB8fDB8fHww" alt="Coding" width="600"/>
-</p>
-
 ---
 
 ### 👨‍💻 About Me:
