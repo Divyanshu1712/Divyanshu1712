@@ -8,7 +8,8 @@
 - 🌱 Constantly learning and exploring **AI/ML with Python**, **Cloud Integration (AWS/Azure/GCP)**, and **Full Stack Development**.
 - 🎨 Passionate about creating seamless **user experiences** through innovative design and technology.
 - 📫 Reach me at **[Divyanshusrivastava619@gmail.com](mailto:Divyanshusrivastava619@gmail.com)**
-- ⚡ Fun fact: **I believe I can code any website until... I get stuck (and then I learn more!)** 🚀
+- ⚡🚀 Fun Fact:  I’m confident I can build any software... until I hit a bug. Then, I switch to Debugging Ninja Mode and come out smarter!!!! 
+
 
 ---
 
