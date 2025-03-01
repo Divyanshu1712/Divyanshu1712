@@ -63,16 +63,6 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Cloud-based Data Platforms" width="40" height="40"/>
 </p>
-
-### Core Competencies:
-- Problem-solving  
-- Test Design  
-- Debugging  
-- Cloud Integration (AWS, Azure)  
-- CI/CD Pipelines  
-
-
-
 ---
 
 ### 📊 GitHub Stats:
@@ -86,6 +76,7 @@
 ### 🚀 Let's Collaborate!
 Looking to collaborate on **Full Stack Projects**, **IoT Automation**, or **ML Integrations**?  
 Drop a message, and let's innovate together! 
+
 
 ---
 
